@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/demo-springboot-rabbitmq" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo01-simple" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo01-workqueue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo02-pubsub" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo03-script-engine" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo04-simple02" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo05" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo06" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/official-tutorials" charset="UTF-8" />
+  </component>
+</project>

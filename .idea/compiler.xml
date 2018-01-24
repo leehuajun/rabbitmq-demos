@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="demo-springboot-rabbitmq" />
+        <module name="demo01-simple" />
+        <module name="demo01-workqueue" />
+        <module name="demo02-pub&amp;sub" />
+        <module name="demo02-pubsub" />
+        <module name="demo02-topic" />
+        <module name="demo03-script-engine" />
+        <module name="demo04-simple02" />
+        <module name="demo05" />
+        <module name="demo06" />
+        <module name="official-tutorials" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demo-springboot-rabbitmq" target="1.8" />
+      <module name="demo01-receiver" target="1.5" />
+      <module name="demo01-sender" target="1.5" />
+      <module name="demo01-simple" target="1.5" />
+      <module name="demo01-simple (1)" target="1.5" />
+      <module name="demo01-workqueue" target="1.5" />
+      <module name="demo02-pub&amp;sub" target="1.5" />
+      <module name="demo02-pubsub" target="1.5" />
+      <module name="demo02-topic" target="1.5" />
+      <module name="demo03-script-engine" target="1.8" />
+      <module name="demo04-simple02" target="1.8" />
+      <module name="demo05" target="1.5" />
+      <module name="demo06" target="1.8" />
+      <module name="official-tutorials" target="1.5" />
+      <module name="rabbitmq-demos" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

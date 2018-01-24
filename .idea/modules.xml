@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/demo-springboot-rabbitmq/demo-springboot-rabbitmq.iml" filepath="$PROJECT_DIR$/demo-springboot-rabbitmq/demo-springboot-rabbitmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo01-simple/demo01-simple.iml" filepath="$PROJECT_DIR$/demo01-simple/demo01-simple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo01-workqueue/demo01-workqueue.iml" filepath="$PROJECT_DIR$/demo01-workqueue/demo01-workqueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo02-pubsub/demo02-pubsub.iml" filepath="$PROJECT_DIR$/demo02-pubsub/demo02-pubsub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo03-script-engine/demo03-script-engine.iml" filepath="$PROJECT_DIR$/demo03-script-engine/demo03-script-engine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo04-simple02/demo04-simple02.iml" filepath="$PROJECT_DIR$/demo04-simple02/demo04-simple02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo05/demo05.iml" filepath="$PROJECT_DIR$/demo05/demo05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo06/demo06.iml" filepath="$PROJECT_DIR$/demo06/demo06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/official-tutorials/official-tutorials.iml" filepath="$PROJECT_DIR$/official-tutorials/official-tutorials.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmq-demos.iml" filepath="$PROJECT_DIR$/rabbitmq-demos.iml" />
+    </modules>
+  </component>
+</project>
